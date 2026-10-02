@@ -1,0 +1,15 @@
+/* google-transparency */
+:root {
+  --light: transparent !important;
+}
+html, body, #view_container, .c76Ybb, .Jn9vif, .g96Y6b {
+  background-color: transparent !important;
+  background: none !important;
+}
+
+/* google-full overlay fix */
+.Uw93Bf, .Y2Zype, .gb_T {
+  background-color: rgba(30, 30, 30, 0.75) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 8px !important;
+}
