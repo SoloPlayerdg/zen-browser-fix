@@ -1,0 +1,8 @@
+
+{
+  "transparent-theme": {
+    "name": "Transparent Theme Fix",
+    "description": "Corrige los popups blancos manteniendo la transparencia",
+    "css": "/* Forzar fondo sólido en menús flotantes, popups y paneles de extensiones */ #customization-panel, .panel-arrowcontent, panelmultiview, menupopup, .thunderbird-popup, #appMenu-popup, #customization-panel-container { background-color: #1e1e1e !important; background-image: none !important; border: 1px solid #333333 !important; } .panel-arrowcontent *, menupopup * { color: #ffffff !important; }"
+  }
+}
