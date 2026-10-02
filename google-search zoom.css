@@ -1,0 +1,13 @@
+#main {
+  transition: all 0.3s ease-in-out !important;
+}
+body:has(.A8SBwf.emcav) #main {
+  filter: blur(20px) !important;
+  scale: 0.98 !important;
+}
+.aajZCb, .emcav .RNNXgb {
+  background-color: #fff5 !important;
+  @media (prefers-color-scheme: dark) {
+    background-color: #0007 !important;
+  }
+}
